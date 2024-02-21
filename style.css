@@ -20,7 +20,7 @@ body{
 /* --------home style ----- */
 /* linear-gradient(rgba(206, 240, 223, 0.4)50%, rgba(206, 240, 223, 0.4)50%), */
 #home{
-    background:  url(photos/white_comp1.jpg);
+    background:  url(images/guy.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size:cover;
