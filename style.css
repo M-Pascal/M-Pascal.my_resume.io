@@ -30,7 +30,7 @@ body{
 /* --------- for the navbar -------- */
 .navbar{
     display: flex;
-    background: var(--grey);
+    background: var(--lightgray);
     align-items: center;
     justify-content: space-between;
     padding: .2rem 2rem;
